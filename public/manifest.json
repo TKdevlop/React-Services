@@ -1,0 +1,33 @@
+{
+  "short_name": "Services",
+  "name": "Food ordering",
+  "icons": [
+    {
+      "src": "food.png",
+      "type": "image/png",
+      "sizes": "96x96"
+    },
+    {
+      "src": "food.png",
+      "type": "image/png",
+      "sizes": "144x144"
+    },
+    {
+      "src": "food.png",
+      "type": "image/png",
+      "sizes": "256x256"
+    },
+    {
+      "src": "food.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#24292E",
+  "background_color": "#24292E",
+  "lang": "en-US",
+  "description": "Welcome To Services",
+  "dir": "ltr"
+}

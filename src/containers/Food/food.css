@@ -1,0 +1,31 @@
+.btnCart:hover {
+    background: rgba(0, 245, 0, 1);
+    box-shadow: 2px 2px 3px;
+}
+
+.btnCart:active {
+    border: 1px solid green;
+    border-radius: 4px;
+}
+
+.btnCart {
+    transition: all 0.2s;
+}
+
+.modal {
+    display: inline-block;
+    padding: 12px;
+    background: black;
+    border-radius: 10px;
+    color: white;
+    text-transform: uppercase;
+    font-weight: bold;
+    position: fixed;
+    z-index: 10000;
+    left: 40%
+}
+@media(max-width:500px){
+    .modal{
+        left:10%
+    }
+}
