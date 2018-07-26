@@ -22,4 +22,4 @@
 
   npm start(run a local dev server)
 ```
->Feel free to use as personal or commercial project and don't forget to star if it's helpful :)
+>Feel free to use as a personal or commercial project and don't forget to star if it's helpful :)
